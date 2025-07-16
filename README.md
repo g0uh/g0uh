@@ -7,15 +7,14 @@ I'm an **industrial automation programmer** from **Valencia, Spain** 📍. Curre
 **Currently learning:**
 
 - Javascript
-- Java
+- Typescript
 - Git
 - SQL
 
 **Planning to learn:**
 
-- React or Angular
+- React
 - Nodejs and express
-- Spring Framework
 
 ### My favourite terminal commands
 
